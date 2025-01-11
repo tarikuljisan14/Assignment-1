@@ -37,16 +37,16 @@
     font-weight: bolder;
   }
   /* banner section */
-  .banner-head{
+  .banner-container{
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    /* margin-left: 130px; */
-    /* margin-right: 130px; */
+    justify-content: space-between; 
+   
+    
     margin-top: 50px;
     background-color: #C6E4D6;
     padding:  40px;
-    /* border: 2px solid rgb(163, 24, 24); */
+    
     border-radius: 25px;
   }
   .banner-title
